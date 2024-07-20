@@ -76,10 +76,11 @@ where the *label_mode* denotes different dataset variants. **(1) 1:** training w
 If you find this project useful for your research, please use the following BibTeX entry.
 
 ```
-@article{wu2022teaching,
-  title={Teaching Yourself: Graph Self-Distillation on Neighborhood for Node Classification},
-  author={Wu, Lirong and Xia, Jun and Lin, Haitao and Gao, Zhangyang and Liu, Zicheng and Zhao, Guojiang and Li, Stan Z},
-  journal={arXiv preprint arXiv:2210.02097},
-  year={2022}
+@article{wu2024teacher,
+  title={A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation},
+  author={Wu, Lirong and Lin, Haitao and Gao, Zhangyang and Zhao, Guojiang and Li, Stan Z},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2024},
+  publisher={IEEE}
 }
 ```
